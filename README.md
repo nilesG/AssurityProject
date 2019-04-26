@@ -17,7 +17,7 @@
  ```
 
  
- ## IMPORTS USED
+ ## STATIC IMPORTS USED
   
   1. Make sure that you have these static imports in your test class file :
   ````   
