@@ -1,7 +1,8 @@
 # AssurityProject
- # API AUTOMATION 
+ # Java Based Rest API AUTOMATION Project
  
- This project uses REST ASSURED (Java DSL) to query an endpoint and to validate JSON payload output.
+ This project uses REST ASSURED (Java DSL) to query an endpoint and to validate JSON payload output. 
+ IDE just is IntelliJ Idea 2018 3.5(Ultimate Edition)
  
  ## FRAME WORK STACK 
  ```
@@ -15,7 +16,6 @@
   c) jaxb-impl
   d) activation
  ```
-
  
  ## STATIC IMPORTS USED
   
