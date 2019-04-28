@@ -1,7 +1,7 @@
 # AssurityProject
  # API AUTOMATION 
  
- This project uses REST ASSURED (Java DSL) to query an endpoint, Validate ResponseCode and to validate JSON payload.
+ This project uses REST ASSURED (Java DSL) to query an endpoint and to validate JSON payload output.
  
  ## FRAME WORK STACK 
  ```
