@@ -23,3 +23,6 @@
   ````   
      import static org.hamcrest.CoreMatchers.containsString;
   ````
+
+## Reporting
+ 1. Reports are the default Junit reports. 
